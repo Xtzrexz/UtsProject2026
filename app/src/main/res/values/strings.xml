@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">UTS Pemrograman Mobile II</string>
+    <string name="title_product_list">Daftar Produk API</string>
+    <string name="label_price">Harga: </string>
+    <string name="label_stock">Stok: </string>
+    <string name="label_rating">Rating: </string>
+    <string name="btn_see_all_reviews">Lihat Semua Review</string>
+    <string name="title_product_detail">Detail Produk</string>
+    <string name="label_description">Deskripsi:</string>
+    <string name="label_category">Kategori:</string>
+    <string name="label_status">Status:</string>
+    <string name="title_profile">Profil Developer</string>
+    <string name="profile_name">Muhammad Rezkiawan</string>
+    <string name="profile_email">muhammadrezkiawan@gmail.com</string>
+    <string name="profile_phone">0812-3456-7890</string>
+    <string name="profile_nim">6304240069</string>
+    <string name="profile_class">5C</string>
+    <string name="profile_prodi">D4 Rekayasa Perangkat Lunak</string>
+    <string name="profile_department">Teknik Informatika</string>
+    <string name="profile_university">Politeknik Negeri Bengkalis</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+</resources>
