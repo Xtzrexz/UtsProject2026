@@ -11,14 +11,13 @@
     <string name="label_status">Status:</string>
     <string name="title_profile">Profil Developer</string>
     <string name="profile_name">Muhammad Rezkiawan</string>
-    <string name="profile_email">muhammadrezkiawan@gmail.com</string>
-    <string name="profile_phone">0812-3456-7890</string>
+    <string name="profile_email">Rezkiawan@polbeng.ac.id</string>
+    <string name="profile_phone">0831-4042-2794</string>
     <string name="profile_nim">6304240069</string>
     <string name="profile_class">5C</string>
     <string name="profile_prodi">D4 Rekayasa Perangkat Lunak</string>
     <string name="profile_department">Teknik Informatika</string>
     <string name="profile_university">Politeknik Negeri Bengkalis</string>
-    <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
