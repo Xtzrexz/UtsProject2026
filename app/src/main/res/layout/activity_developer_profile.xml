@@ -8,7 +8,6 @@
     android:padding="24dp"
     tools:context=".ui.DeveloperProfileActivity">
 
-    <!-- Foto Profil Mahasiswa -->
     <ImageView
         android:id="@+id/imgDeveloper"
         android:layout_width="120dp"
@@ -17,8 +16,7 @@
         android:scaleType="centerCrop"
         android:src="@mipmap/ic_launcher_round"
         android:contentDescription="Foto Profil Developer" />
-
-    <!-- Nama Mahasiswa -->
+    
     <TextView
         android:id="@+id/tvDevName"
         android:layout_width="wrap_content"
@@ -36,9 +34,8 @@
         android:textSize="14sp"
         android:textColor="#666666"
         android:layout_marginTop="4dp"
-        tools:text="email@student.polbeng.ac.id" />
+        tools:text="Rezkiawan@polbeng.ac.id" />
 
-    <!-- Informasi Detail Menggunakan Tabel / Daftar Teks -->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -53,7 +50,7 @@
             android:layout_height="wrap_content"
             android:textSize="14sp"
             android:paddingBottom="8dp"
-            tools:text="No. HP: 0812-3456-7890" />
+            tools:text="No. HP: 0831-4042-2794" />
 
         <TextView
             android:id="@+id/tvDevNim"
